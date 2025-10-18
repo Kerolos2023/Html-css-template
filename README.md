@@ -4,7 +4,7 @@ A beginner-friendly tutorial that introduces the basics of **HTML** and **CSS** 
 
 ## 🌐 Live Preview
 
-> 📂 You can open any `.html` file in your browser to preview.
+https://starlit-pegasus-b04bcc.netlify.app/
 
 ---
 
